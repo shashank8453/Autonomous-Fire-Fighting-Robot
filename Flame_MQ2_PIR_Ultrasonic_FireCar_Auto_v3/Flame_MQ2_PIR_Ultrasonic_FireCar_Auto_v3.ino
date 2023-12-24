@@ -18,7 +18,7 @@
 #define OnBoardLED_Pin 2
 
 // Pin Numbers: L298N Motor Driver
-#define RightMtr_Pin1 22   // (Output) Connect to IN1 of L298N, Right Motor Pin1
+#define RightMtr_Pin1 22   // (Output) Connect to IN1 of L298N, Right Motor Pin1  
 #define RightMtr_Pin2 23   // (Output) Connect to IN2 of L298N, Right Motor Pin2
 #define LeftMtr_Pin1 16    // (Output) Connect to IN3 of L298N, Left Motor Pin1
 #define LeftMtr_Pin2 17    // (Output) Connect to IN4 of L298N, Left Motor Pin2
